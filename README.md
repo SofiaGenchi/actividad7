@@ -1,4 +1,4 @@
-# DESARROLLADO WEB CON REACT JS
+# DESARROLLO WEB CON REACT JS
 
 Desarrollar el maquetado de una pagina de detalle de un producto para un sitio de ecommerce.
 -Nombre
