@@ -1,0 +1,68 @@
+{
+    "productos": [
+        {
+            "nombre": "nombre 1",
+            "descripcion": "descripcion 1",
+            "precio": 100,
+            "SKU": 1111,
+            "cantidad": 1,
+            "imagen": ""
+        },
+        {
+            "nombre": "nombre 2",
+            "descripcion": "descripcion 2",
+            "precio": 200,
+            "SKU": 2222,
+            "cantidad": 2,
+            "imagen": ""
+        },
+        {
+            "nombre": "nombre 3",
+            "descripcion": "descripcion 3",
+            "precio": 300,
+            "SKU": 3333,
+            "cantidad": 3,
+            "imagen": ""
+        },
+        {
+            "nombre": "nombre 4",
+            "descripcion": "descripcion 4",
+            "precio": 400,
+            "SKU": 4444,
+            "cantidad": 4,
+            "imagen": ""
+        },
+        {
+            "nombre": "nombre 5",
+            "descripcion": "descripcion 5",
+            "precio": 500,
+            "SKU": 5555,
+            "cantidad": 5,
+            "imagen": ""
+        },
+        {
+            "nombre": "nombre 6",
+            "descripcion": "descripcion 6",
+            "precio": 600,
+            "SKU": 6666,
+            "cantidad": 6,
+            "imagen": ""
+        },
+        {
+            "nombre": "nombre 7",
+            "descripcion": "descripcion 7",
+            "precio": 700,
+            "SKU": 7777,
+            "cantidad": 7,
+            "imagen": ""
+        },
+        {
+            "nombre": "nombre 8",
+            "descripcion": "descripcion 8",
+            "precio": 800,
+            "SKU": 8888,
+            "cantidad": 8,
+            "imagen": ""
+        }
+    ]
+}

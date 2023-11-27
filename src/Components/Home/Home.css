@@ -1,0 +1,14 @@
+.home {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    letter-spacing: 25px;
+}
